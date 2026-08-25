@@ -11,3 +11,4 @@ american
 baltimore
 cambridge
 Denmark
+Edinbrugh
