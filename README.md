@@ -392,6 +392,9 @@ Intermediate
 * Build an AI coding assistant
 * Build an AI image classifier API
 
+
+
+
 Advanced
 
 * Multi-agent research system
