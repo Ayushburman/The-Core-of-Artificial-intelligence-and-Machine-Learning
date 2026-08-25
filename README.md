@@ -161,6 +161,7 @@ Store embeddings and power RAG and semantic search.
 * pgvector
 
 11. Data Engineering
+    
 
 Pipelines that feed models and features.
 
