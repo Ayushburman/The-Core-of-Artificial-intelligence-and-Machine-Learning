@@ -166,6 +166,8 @@ How agents communicate with tools and with each other.
 
 04 · Memory, Retrieval & Data
 
+
+
 10. Vector Databases
 
 Store embeddings and power RAG and semantic search.
