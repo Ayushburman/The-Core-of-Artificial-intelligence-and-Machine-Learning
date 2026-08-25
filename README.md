@@ -92,6 +92,7 @@ Where open models live and run locally.
 
 06. Generative AI — Image / Video / Audio
 
+
 Multimodal generation tools.
 
 * Stable Diffusion
