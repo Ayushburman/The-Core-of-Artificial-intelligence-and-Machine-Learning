@@ -22,3 +22,4 @@ london
 Mumbai
 Oxford
 pennsilvenia
+qatar
