@@ -410,7 +410,6 @@ Advanced
 
 
 ◆ This is a 2026 snapshot.
-
 The AI/ML ecosystem changes extremely quickly. Frameworks, models, APIs, benchmarks, and agent protocols can become obsolete or be replaced rapidly.
 
 Use this map as a learning and orientation framework, not as a permanent ranking of tools.
