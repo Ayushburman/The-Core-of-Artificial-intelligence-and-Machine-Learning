@@ -215,6 +215,9 @@ Managed infrastructure for training and serving.
 * Azure AI Foundry
 * Claude Platform — API
 
+
+
+
 ⸻
 
 06 · Building & Coding
