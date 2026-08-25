@@ -31,3 +31,4 @@ Vellore
 washington
 Xavier
 Yale
+Zirakpur
