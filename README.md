@@ -8,6 +8,7 @@ am,
 anu
 bahu
 anj
+nhu
 mk
 # The-Core-of-Artificial-intelligence-and-Machine-Learning
 
