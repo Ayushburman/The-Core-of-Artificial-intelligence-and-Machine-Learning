@@ -394,3 +394,6 @@ Use this map as a learning and orientation framework, not as a permanent ranking
 Foundations → Models → Agents → Retrieval → Data → MLOps → Deployment → Research
 
 Learn the concepts first. Learn the tools second.
+
+_______________
+
