@@ -1,17 +1,4 @@
-as
-llw
-smk
-amm
-ab
-ab
-am,
-anu
-as
-ni
-bahu
-abh
-anj
-nhu
+
 mk
 # The-Core-of-Artificial-intelligence-and-Machine-Learning
 
