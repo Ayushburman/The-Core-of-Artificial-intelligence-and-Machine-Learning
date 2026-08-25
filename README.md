@@ -417,6 +417,9 @@ Use this map as a learning and orientation framework, not as a permanent ranking
 
 ⸻
 
+
+
+
 ◆ AI / ML WORLD MAP
 
 Foundations → Models → Agents → Retrieval → Data → MLOps → Deployment → Research
