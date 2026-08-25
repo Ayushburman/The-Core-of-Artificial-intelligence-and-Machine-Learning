@@ -1,2 +1,3 @@
 
 printf
+scanf
