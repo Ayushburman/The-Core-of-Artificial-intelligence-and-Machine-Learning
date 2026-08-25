@@ -135,6 +135,9 @@ Chain prompts, tools, and memory into applications.
 * Semantic Kernel
 * Guidance
 
+
+
+
 08. Agentic Frameworks
 
 Multi-step, tool-using, autonomous agents.
