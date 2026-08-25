@@ -7,6 +7,7 @@ ab
 am,
 anu
 as
+ni
 bahu
 abh
 anj
