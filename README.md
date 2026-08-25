@@ -6,6 +6,7 @@ ab
 ab
 am,
 anu
+as
 bahu
 anj
 nhu
