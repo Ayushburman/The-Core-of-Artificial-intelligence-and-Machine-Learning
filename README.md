@@ -170,6 +170,7 @@ Pipelines that feed models and features.
 
 05 · Deploy, Monitor & Scale
 
+
 12. MLOps
 
 Track, version, deploy, and monitor models.
