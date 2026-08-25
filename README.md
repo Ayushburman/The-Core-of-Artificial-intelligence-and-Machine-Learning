@@ -8,6 +8,9 @@
 Field map — 2026 snapshot
 Software · frameworks · agents · models · infrastructure — organized by function
 
+
+
+
 ⸻
 
 
