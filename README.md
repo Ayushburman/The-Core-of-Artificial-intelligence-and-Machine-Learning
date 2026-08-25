@@ -89,6 +89,7 @@ Where open models live and run locally.
 * GGUF / Quantized Models
 * vLLM
 
+
 06. Generative AI — Image / Video / Audio
 
 Multimodal generation tools.
