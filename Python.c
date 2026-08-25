@@ -7,3 +7,4 @@ qas
 nig
 zxc
 oxford
+american
