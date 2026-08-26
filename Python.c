@@ -12,7 +12,6 @@ Harvard
 london
 pennsilvenia
 qatar
-Russia
 
 
 
