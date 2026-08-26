@@ -3,7 +3,6 @@ printf
 op
 qas
 zxc
-oxford
 america
 cambridge
 Denmark
