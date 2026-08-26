@@ -15,6 +15,7 @@ Level	Meaning
 🟢 Major	Competition & placement grade
 🟣 Fun	Just because
 
+
 ⸻
 
 01 — Computer Vision
