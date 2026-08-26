@@ -4,8 +4,7 @@ op
 qas
 zxc
 oxford
-american
-baltimore
+america
 cambridge
 Denmark
 Edinbrugh
