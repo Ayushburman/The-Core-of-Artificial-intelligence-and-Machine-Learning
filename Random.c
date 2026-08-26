@@ -8,7 +8,7 @@ v
 g
 o
 l
-o
+
 l
 k
 m
