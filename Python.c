@@ -6,6 +6,5 @@ qas
 cambridge
 
 Edinbrugh
-Germany
 Harvard
 london
