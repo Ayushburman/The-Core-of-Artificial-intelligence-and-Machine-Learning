@@ -11,7 +11,6 @@ France
 Germany
 Harvard
 Italy
-JandK
 london
 Mumbai
 Oxford
