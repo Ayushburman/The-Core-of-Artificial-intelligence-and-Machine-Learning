@@ -337,8 +337,7 @@ Recommended Approach
 8. Move to the next field.
 
 ⸻
-
-🏆 Final Rule
+ Final Rule
 
 Pick one flagship project per field at most.
 
