@@ -2,7 +2,6 @@
 printf
 op
 qas
-nig
 zxc
 oxford
 american
