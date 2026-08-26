@@ -96,6 +96,7 @@ Level	Meaning
 
 ⸻
 
+
 03 — Cybersecurity + AI
 
 🔵 Minor
