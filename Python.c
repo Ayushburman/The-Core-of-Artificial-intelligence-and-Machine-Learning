@@ -17,7 +17,6 @@ Germany
 Harvard
 Italy
 JandK
-kolkata
 london
 Mumbai
 Oxford
