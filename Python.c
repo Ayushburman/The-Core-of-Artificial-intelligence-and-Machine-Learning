@@ -12,7 +12,6 @@ Harvard
 Italy
 london
 Mumbai
-Oxford
 pennsilvenia
 qatar
 Russia
