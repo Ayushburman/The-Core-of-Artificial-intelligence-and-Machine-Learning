@@ -30,5 +30,4 @@ UP
 Vellore
 washington
 Xavier
-Yale
 
