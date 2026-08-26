@@ -7,7 +7,6 @@ america
 cambridge
 Denmark
 Edinbrugh
-France
 Germany
 Harvard
 Italy
