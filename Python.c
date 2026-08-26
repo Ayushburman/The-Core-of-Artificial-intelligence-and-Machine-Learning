@@ -10,7 +10,6 @@ Edinbrugh
 Germany
 Harvard
 london
-Mumbai
 pennsilvenia
 qatar
 Russia
