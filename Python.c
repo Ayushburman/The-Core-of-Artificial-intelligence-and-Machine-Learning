@@ -11,8 +11,5 @@ Germany
 Harvard
 london
 pennsilvenia
-qatar
-
-
 
 
