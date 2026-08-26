@@ -10,6 +10,3 @@ Edinbrugh
 Germany
 Harvard
 london
-pennsilvenia
-
-
