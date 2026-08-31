@@ -1,4 +1,1 @@
-lang
-a
-njbs
-jnj
+l
