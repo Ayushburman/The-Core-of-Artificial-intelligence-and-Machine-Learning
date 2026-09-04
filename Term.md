@@ -2,7 +2,7 @@ If your goal is to master AI well enough to do serious research AND become highl
 
 Here’s the roadmap I’d recommend.
 
-🧠 The Complete AI Mastery Roadmap
+# The Complete AI Mastery Roadmap
 
 Think of AI as 7 layers:
 
@@ -12,7 +12,7 @@ You don’t need to master each layer completely before moving on. Learn them in
 
 ⸻
 
-0. First: Know what “AI mastery” actually means
+# 0. First: Know what “AI mastery” actually means
 
 There are three different levels:
 
@@ -65,7 +65,7 @@ Level 2 + Level 3
 
 ⸻
 
-PHASE 1 — Programming Foundation
+# PHASE 1 — Programming Foundation
 
 Duration: ~1–2 months
 
@@ -383,7 +383,7 @@ GRPO
 
 ⸻
 
-PHASE 6 — Modern AI Engineering
+# PHASE 6 — Modern AI Engineering
 
 This is extremely important for jobs.
 
