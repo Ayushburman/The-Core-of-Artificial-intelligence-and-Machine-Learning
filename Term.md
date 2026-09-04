@@ -687,8 +687,8 @@ Experiment
 This loop is real AI research.
 ```
 ⸻
-
-🧪 Build Projects at Every Stage
+```bash
+Build Projects at Every Stage
 
 This is critical.
 
@@ -699,7 +699,7 @@ Don’t make:
 and call yourself an AI engineer.
 
 Build progressively harder projects.
-
+```
 ⸻
 
 Beginner
