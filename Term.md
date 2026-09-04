@@ -1054,4 +1054,3 @@ If you can reach the point where you can read a new AI paper, understand its mat
 
 You’re doing AI.
 
-If you tell me your current level (e.g. JEE/college year, C/Python level, math level, and how many hours/day), I can turn this into a day-by-day 12-month AI roadmap with exact topics, courses, books, papers, projects, and a job/research portfolio path.
