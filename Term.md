@@ -801,8 +801,8 @@ evaluation
 That’s a legitimate portfolio project.
 
 ⸻
-
-💼 What Companies Actually Want
+```bash
+ What Companies Actually Want
 
 For AI/ML engineering, prioritize:
 
@@ -837,7 +837,7 @@ GPU optimization
 quantization
 inference optimization
 large-scale data pipelines
-
+```
 ⸻
 ```bash
 🧑‍🔬 For Research Jobs
