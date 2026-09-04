@@ -554,8 +554,8 @@ This is highly valuable for AI infrastructure jobs.
 ```
 ⸻
 
-PHASE 8 — AI Research
-
+# PHASE 8 — AI Research
+```bash
 Now we move from:
 
 “I can use AI”
@@ -563,7 +563,7 @@ Now we move from:
 to
 
 “I can create new AI knowledge.”
-
+```
 ⸻
 
 Learn how to read papers
