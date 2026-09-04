@@ -418,6 +418,7 @@ You need to build production AI systems.
 ```
 
 ⸻
+```bash
 
 Learn RAG
 
