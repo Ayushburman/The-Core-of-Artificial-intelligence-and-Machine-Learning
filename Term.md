@@ -31,6 +31,10 @@ You can:
 Useful, but not an AI engineer/researcher.
 
 ```
+
+——-
+
+```bash
 Level 2 — AI Engineer
 
 You can:
@@ -47,6 +51,10 @@ You can:
 * understand transformers
 
 This is where most industry AI jobs are.
+
+```
+
+——
 
 Level 3 — AI Researcher
 
