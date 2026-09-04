@@ -244,7 +244,7 @@ L1/L2
 optimization landscapes
 ```
 ⸻
-
+```bash
 PHASE 3 — Classical Machine Learning
 
 Duration: 1–2 months
@@ -286,7 +286,7 @@ data leakage
 cross validation
 metrics
 hyperparameter tuning
-
+```
 ⸻
 
 PHASE 4 — Deep Learning
