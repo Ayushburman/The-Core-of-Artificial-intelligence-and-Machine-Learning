@@ -1018,7 +1018,7 @@ Research
 That’s how you become dangerous. 🔥
 
 ⸻
-
+```bash
 🎯 The Ultimate Skill Stack
 
 If I were designing your AI mastery target, I’d aim for this:
@@ -1048,6 +1048,7 @@ If I were designing your AI mastery target, I’d aim for this:
                        PyTorch
                          │
                       Python
+```
 
 If you can reach the point where you can read a new AI paper, understand its mathematics, implement its method in PyTorch, reproduce its results, modify it, evaluate the modification, and then deploy the resulting model, you’re no longer merely “learning AI.”
 
