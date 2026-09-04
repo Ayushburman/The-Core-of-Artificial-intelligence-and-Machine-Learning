@@ -565,7 +565,7 @@ to
 “I can create new AI knowledge.”
 ```
 ⸻
-
+```bash
 Learn how to read papers
 
 Don’t read papers line-by-line from page 1.
@@ -609,7 +609,7 @@ ablations
 Ask:
 
 Why does this work?
-
+```
 ⸻
 
 📚 Papers you should eventually understand
