@@ -528,8 +528,8 @@ queues
 monitoring
 ```
 ⸻
-
-🚀 Model Serving
+```bash
+Model Serving
 
 Learn:
 
@@ -551,7 +551,7 @@ Triton
 TensorRT-LLM
 
 This is highly valuable for AI infrastructure jobs.
-
+```
 ⸻
 
 PHASE 8 — AI Research
