@@ -12,9 +12,10 @@ Programming → Math → ML → Deep Learning → LLMs → AI Systems → Resear
 You don’t need to master each layer completely before moving on. Learn them in parallel with increasing depth.
 ```
 ⸻
-
+ 
 # 0. First: Know what “AI mastery” actually means
 
+```bash
 There are three different levels:
 
 Level 1 — AI User
@@ -29,6 +30,7 @@ You can:
 
 Useful, but not an AI engineer/researcher.
 
+```
 Level 2 — AI Engineer
 
 You can:
