@@ -337,6 +337,7 @@ softmax\left(\frac{QK^T}{\sqrt{d_k}}\right)V
 without memorizing it.
 ```
 ⸻
+```bash
 
 PHASE 5 — LLMs
 
@@ -403,6 +404,7 @@ RLHF
 DPO
 GRPO
 
+```
 ⸻
 
 # PHASE 6 — Modern AI Engineering
