@@ -839,7 +839,7 @@ inference optimization
 large-scale data pipelines
 
 ⸻
-
+```bash
 🧑‍🔬 For Research Jobs
 
 Prioritize:
@@ -861,9 +861,9 @@ And most importantly:
 Research experience.
 
 A GitHub repo reproducing a paper can be surprisingly valuable.
-
+```
 ⸻
-
+```bash
 🏆 Your GitHub Should Eventually Look Like This
 
 github.com/yourname
@@ -903,7 +903,7 @@ That’s much stronger than:
 chatbot-final-final2/
 
 😂
-
+```
 ⸻
 ```bash
 A Practical 12-Month Roadmap
@@ -948,7 +948,7 @@ That’s much more effective.
 ```
 ⸻
 ```bash
-⏱️ If You Have 3 Hours/Day
+If You Have 3 Hours/Day
 
 I’d use:
 
