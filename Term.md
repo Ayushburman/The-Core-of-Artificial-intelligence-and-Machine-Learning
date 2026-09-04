@@ -487,6 +487,7 @@ Understand the underlying architecture first.
 ```
 
 ⸻
+```bash
 
 PHASE 7 — AI Infrastructure
 
