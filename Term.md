@@ -947,7 +947,7 @@ backpropagation
 That’s much more effective.
 
 ⸻
-
+```bash
 ⏱️ If You Have 3 Hours/Day
 
 I’d use:
@@ -972,7 +972,7 @@ GitHub
 On weekends:
 
 Build.
-
+```
 ⸻
 ```bash
  The Most Important Rule
