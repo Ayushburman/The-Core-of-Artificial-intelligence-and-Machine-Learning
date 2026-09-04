@@ -905,8 +905,8 @@ chatbot-final-final2/
 😂
 
 ⸻
-
-🧭 A Practical 12-Month Roadmap
+```bash
+A Practical 12-Month Roadmap
 
 If you’re starting seriously, I’d structure the year like this:
 
@@ -945,7 +945,7 @@ Then later understand:
 backpropagation
 
 That’s much more effective.
-
+```
 ⸻
 ```bash
 ⏱️ If You Have 3 Hours/Day
