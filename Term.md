@@ -452,6 +452,7 @@ retrieval evaluation
 RAG evaluation
 ```
 ⸻
+```bash
 
 Agents
 
@@ -483,6 +484,7 @@ code execution
 But don’t become obsessed with “agent frameworks.”
 
 Understand the underlying architecture first.
+```
 
 ⸻
 
