@@ -657,8 +657,8 @@ Aim for:
 50 papers deeply understood > 500 papers bookmarked.
 ```
 ⸻
-
-🔬 The Research Loop
+```bash
+The Research Loop
 
 Eventually your workflow should become:
 
@@ -685,7 +685,7 @@ New hypothesis
 Experiment
 
 This loop is real AI research.
-
+```
 ⸻
 
 🧪 Build Projects at Every Stage
