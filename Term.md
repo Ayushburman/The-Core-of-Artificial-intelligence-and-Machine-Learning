@@ -611,8 +611,8 @@ Ask:
 Why does this work?
 ```
 ⸻
-
-📚 Papers you should eventually understand
+```bash
+Papers you should eventually understand
 
 Start with foundational papers such as:
 
@@ -655,7 +655,7 @@ Don’t try to read 500 papers.
 Aim for:
 
 50 papers deeply understood > 500 papers bookmarked.
-
+```
 ⸻
 
 🔬 The Research Loop
