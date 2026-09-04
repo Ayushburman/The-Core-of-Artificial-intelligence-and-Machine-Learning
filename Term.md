@@ -406,6 +406,7 @@ GRPO
 
 ```
 ⸻
+```bash
 
 # PHASE 6 — Modern AI Engineering
 
@@ -414,6 +415,7 @@ This is extremely important for jobs.
 Knowing transformers isn’t enough.
 
 You need to build production AI systems.
+```
 
 ⸻
 
