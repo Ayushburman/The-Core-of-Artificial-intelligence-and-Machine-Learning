@@ -288,12 +288,13 @@ metrics
 hyperparameter tuning
 ```
 ⸻
+```bash
 
 PHASE 4 — Deep Learning
 
 Now move to:
 
-🔥 PyTorch
+PyTorch
 
 Don’t merely watch tutorials.
 
@@ -334,7 +335,7 @@ Attention(Q,K,V)
 softmax\left(\frac{QK^T}{\sqrt{d_k}}\right)V
 
 without memorizing it.
-
+```
 ⸻
 
 PHASE 5 — LLMs
