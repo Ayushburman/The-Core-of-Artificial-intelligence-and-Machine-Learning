@@ -202,7 +202,7 @@ Why?
 Because neural networks learn through gradients.
 ```
 ⸻
-
+```bash
 3. Probability & Statistics
 
 Learn:
@@ -226,7 +226,7 @@ cross entropy
 KL divergence
 
 These become extremely important for ML and LLMs.
-
+```
 ⸻
 
 4. Optimization
