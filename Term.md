@@ -131,6 +131,7 @@ Weights & Biases
 ```
 ⸻
 
+```bash
 PHASE 2 — Mathematics
 
 This is where people often make a mistake.
@@ -143,6 +144,7 @@ Math → AI concept → implementation
 
 You need four major areas.
 
+```
 ⸻
 
 1. Linear Algebra
