@@ -701,7 +701,7 @@ and call yourself an AI engineer.
 Build progressively harder projects.
 ```
 ⸻
-
+```bash
 Beginner
 
 Project 1
@@ -715,9 +715,9 @@ from scratch using NumPy.
 Then:
 
 Logistic Regression
-
+```
 ⸻
-
+```bash
 Intermediate
 
 Build:
@@ -733,9 +733,9 @@ training
 evaluation
 ↓
 deployment
-
+```
 ⸻
-
+```bash
 Advanced
 
 Build:
@@ -756,11 +756,11 @@ generation
 Train a small language model.
 
 This teaches you far more than watching 50 LLM tutorials.
-
+```
 ⸻
 
-🔥 Then Build a Real LLM System
-
+# 🔥Then Build a Real LLM System
+```bash
 For example:
 
 Research Assistant
@@ -799,7 +799,7 @@ databases
 evaluation
 
 That’s a legitimate portfolio project.
-
+```
 ⸻
 ```bash
  What Companies Actually Want
