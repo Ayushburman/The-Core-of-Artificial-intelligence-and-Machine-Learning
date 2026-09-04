@@ -228,7 +228,7 @@ KL divergence
 These become extremely important for ML and LLMs.
 ```
 ⸻
-
+```bash
 4. Optimization
 
 Learn:
@@ -242,7 +242,7 @@ convexity
 regularization
 L1/L2
 optimization landscapes
-
+```
 ⸻
 
 PHASE 3 — Classical Machine Learning
