@@ -179,6 +179,7 @@ QK^T
 in attention.
 ```
 ⸻
+```bash
 
 2. Calculus
 
@@ -199,7 +200,7 @@ The most important idea:
 Why?
 
 Because neural networks learn through gradients.
-
+```
 ⸻
 
 3. Probability & Statistics
