@@ -80,6 +80,8 @@ Level 2 + Level 3
 
 # PHASE 1 — Programming Foundation
 
+```bash
+
 Duration: ~1–2 months
 
 Become extremely comfortable with:
@@ -126,6 +128,7 @@ Docker
 MLflow
 Weights & Biases
 
+```
 ⸻
 
 PHASE 2 — Mathematics
