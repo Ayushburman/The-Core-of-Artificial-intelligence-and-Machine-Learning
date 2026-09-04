@@ -4,12 +4,13 @@ Here’s the roadmap I’d recommend.
 
 # The Complete AI Mastery Roadmap
 
+```bash 
 Think of AI as 7 layers:
 
 Programming → Math → ML → Deep Learning → LLMs → AI Systems → Research
 
 You don’t need to master each layer completely before moving on. Learn them in parallel with increasing depth.
-
+```
 ⸻
 
 # 0. First: Know what “AI mastery” actually means
