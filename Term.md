@@ -78,6 +78,8 @@ Level 2 + Level 3
 ```
 ⸻
 
+```bash
+
 # PHASE 1 — Programming Foundation
 
 ```bash
@@ -146,7 +148,7 @@ You need four major areas.
 
 ```
 ⸻
-
+```bash
 1. Linear Algebra
 
 Master:
@@ -175,7 +177,7 @@ Eventually understand:
 QK^T
 
 in attention.
-
+```
 ⸻
 
 2. Calculus
