@@ -974,8 +974,8 @@ On weekends:
 Build.
 
 ⸻
-
-🧠 The Most Important Rule
+```bash
+ The Most Important Rule
 
 Don’t fall into this trap:
 
@@ -1016,7 +1016,7 @@ Modify
 Research
 
 That’s how you become dangerous. 🔥
-
+```
 ⸻
 ```bash
 🎯 The Ultimate Skill Stack
