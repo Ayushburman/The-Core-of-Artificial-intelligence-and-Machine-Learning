@@ -56,6 +56,7 @@ This is where most industry AI jobs are.
 
 ——
 
+```bash
 Level 3 — AI Researcher
 
 You can:
@@ -74,6 +75,7 @@ Your target should ultimately be:
 
 Level 2 + Level 3
 
+```
 ⸻
 
 # PHASE 1 — Programming Foundation
