@@ -30,11 +30,14 @@
 ——
 
 ## 4. Classical Machine Learning
+```bash
 - Supervised: linear/logistic regression, decision trees, random forests, SVMs, kNN, gradient boosting (XGBoost, LightGBM)
 - Unsupervised: k-means, hierarchical clustering, PCA, t-SNE, UMAP
 - Model evaluation: cross-validation, bias-variance tradeoff, precision/recall/F1, ROC-AUC
 - Feature engineering, regularization (L1/L2), hyperparameter tuning
+```
 
+—-
 ## 5. Deep Learning Core
 - Neural network fundamentals — forward/backprop, activation functions, loss functions
 - CNNs (your CV specialization) — convolutions, pooling, architectures (ResNet, EfficientNet, Vision Transformers)
