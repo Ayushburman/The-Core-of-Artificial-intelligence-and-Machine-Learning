@@ -6,6 +6,7 @@
 - **Optimization** — gradient descent variants (SGD, Adam, RMSprop), convexity, Lagrange multipliers
 - **Information Theory** — entropy, cross-entropy, KL divergence (loss functions come from here)
 
+—-
 ## 2. Programming Languages
 - **Python** (non-negotiable, primary language) — NumPy, Pandas, data structures, OOP, decorators, generators
 - **C/C++** — you have this already; useful for understanding what's happening under the hood in performance-critical ML systems (CUDA kernels, inference engines)
