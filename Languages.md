@@ -8,12 +8,17 @@
 - **Information Theory** — entropy, cross-entropy, KL divergence (loss functions come from here)
 ```
 —-
-
+```bash
 ## 2. Programming Languages
 - **Python** (non-negotiable, primary language) — NumPy, Pandas, data structures, OOP, decorators, generators
 - **C/C++** — you have this already; useful for understanding what's happening under the hood in performance-critical ML systems (CUDA kernels, inference engines)
 - **SQL** — data querying, essential for real-world pipelines
 - Optional later: **Rust** (emerging in ML infra/tooling), **Julia** (scientific computing)
+```
+
+——-
+
+
 
 ## 3. CS Fundamentals (overlaps your GATE prep directly)
 - Data Structures & Algorithms (you're covering this)
