@@ -18,13 +18,13 @@
 
 ——-
 
-
-
 ## 3. CS Fundamentals (overlaps your GATE prep directly)
+```bash
 - Data Structures & Algorithms (you're covering this)
 - Time/space complexity analysis
 - Operating Systems basics — memory management, parallelism (relevant for training at scale)
 - Computer Architecture — GPUs vs CPUs, why matrix multiplication is fast on GPUs
+```
 
 ## 4. Classical Machine Learning
 - Supervised: linear/logistic regression, decision trees, random forests, SVMs, kNN, gradient boosting (XGBoost, LightGBM)
