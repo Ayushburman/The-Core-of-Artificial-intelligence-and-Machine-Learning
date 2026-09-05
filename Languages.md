@@ -39,13 +39,17 @@
 
 —-
 ## 5. Deep Learning Core
+```bash
 - Neural network fundamentals — forward/backprop, activation functions, loss functions
 - CNNs (your CV specialization) — convolutions, pooling, architectures (ResNet, EfficientNet, Vision Transformers)
 - RNNs/LSTMs/GRUs — sequence modeling basics (largely superseded but conceptually important)
 - **Transformers** — attention mechanism, self-attention, positional encoding — this is the single most important architecture to master today
 - Autoencoders, GANs, Diffusion models (image generation)
+```
+——
 
 ## 6. Large Language Models & Modern AI
+```bash
 - Transformer architecture deep dive (decoder-only, encoder-decoder)
 - Pretraining vs fine-tuning, transfer learning
 - Tokenization (BPE, SentencePiece)
@@ -54,8 +58,11 @@
 - RAG (Retrieval-Augmented Generation)
 - Fine-tuning methods: LoRA, QLoRA, PEFT
 - Agents & multi-agent systems (ties into your interest in the OpenAI multi-agent work) — tool use, planning, memory, orchestration frameworks
+```
+——
 
 ## 7. Frameworks & Tools
+```bash
 - **PyTorch** (industry standard, learn this first) and/or TensorFlow
 - **Hugging Face** ecosystem (transformers, datasets, PEFT)
 - **Scikit-learn** for classical ML
@@ -63,20 +70,27 @@
 - **OpenCV** for your CV work
 - Experiment tracking: Weights & Biases, MLflow
 - Vector databases: Pinecone, Weaviate, FAISS
+```
+
+——-
 
 ## 8. MLOps & Deployment (often skipped, but what separates hobbyists from professionals)
+```bash
 - Model serving (FastAPI, TorchServe, ONNX)
 - Docker & Kubernetes for containerized deployment
 - CI/CD for ML pipelines
 - Cloud platforms — AWS SageMaker, GCP Vertex AI, Azure ML
 - Monitoring model drift, A/B testing in production
-
+```
+——-
 ## 9. AI Security (your natural differentiator, given your OSINT/Kali background)
+```bash
 - Adversarial attacks (evasion, poisoning)
 - Model extraction/inversion attacks
 - Prompt injection & jailbreaking (LLM-specific)
 - Privacy-preserving ML — differential privacy, federated learning
-
+```
+——-
 ## 10. Research & Staying Current
 - Reading papers (arXiv, Papers With Code) — start with the transformer paper, then work forward
 - Following key labs (implementation-first, not just theory)
