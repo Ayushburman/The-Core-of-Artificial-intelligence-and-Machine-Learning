@@ -1,5 +1,4 @@
 
->
 Given how deep you already are into GATE prep, math self-study, and your CV roadmap, this fills in the rest of the picture — the complete stack of what "AI professional" actually requires, ground up.
 
 ## 1. Math Foundations (you're already deep here)
