@@ -91,12 +91,13 @@
 - Privacy-preserving ML — differential privacy, federated learning
 ```
 ——-
+```bash
 ## 10. Research & Staying Current
 - Reading papers (arXiv, Papers With Code) — start with the transformer paper, then work forward
 - Following key labs (implementation-first, not just theory)
 - Kaggle competitions for applied practice
 - Building a portfolio of real projects (which you're already doing well on GitHub)
-
+```
 ---
 
 **Suggested sequencing** given where you are: finish core math + classical ML → deep learning fundamentals → transformers/LLMs (highest leverage right now) → your CV specialization in parallel → MLOps once you have models worth deploying → AI security as your differentiator layer on top.
