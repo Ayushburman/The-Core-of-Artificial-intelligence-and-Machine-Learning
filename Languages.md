@@ -1,12 +1,12 @@
 
 ## 1. Math Foundations (you're already deep here)
-
+```bash
 - **Linear Algebra** — vectors, matrices, eigenvalues/eigenvectors, SVD, matrix decompositions (this underlies literally every model)
 - **Calculus** — derivatives, partial derivatives, chain rule, gradients (backprop is just chain rule at scale)
 - **Probability & Statistics** — distributions, Bayes' theorem, MLE/MAP, hypothesis testing, expectation/variance
 - **Optimization** — gradient descent variants (SGD, Adam, RMSprop), convexity, Lagrange multipliers
 - **Information Theory** — entropy, cross-entropy, KL divergence (loss functions come from here)
-
+```
 —-
 
 ## 2. Programming Languages
