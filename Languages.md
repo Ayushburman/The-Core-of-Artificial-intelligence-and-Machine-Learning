@@ -99,7 +99,8 @@
 - Building a portfolio of real projects (which you're already doing well on GitHub)
 ```
 ---
-
+```bash
 **Suggested sequencing** given where you are: finish core math + classical ML → deep learning fundamentals → transformers/LLMs (highest leverage right now) → your CV specialization in parallel → MLOps once you have models worth deploying → AI security as your differentiator layer on top.
 
 Want me to turn this into one of your dark-themed HTML roadmap docs with phase timelines, like your other study guides?
+```
