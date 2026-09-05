@@ -1,5 +1,6 @@
 
 ## 1. Math Foundations (you're already deep here)
+
 - **Linear Algebra** — vectors, matrices, eigenvalues/eigenvectors, SVD, matrix decompositions (this underlies literally every model)
 - **Calculus** — derivatives, partial derivatives, chain rule, gradients (backprop is just chain rule at scale)
 - **Probability & Statistics** — distributions, Bayes' theorem, MLE/MAP, hypothesis testing, expectation/variance
@@ -7,6 +8,7 @@
 - **Information Theory** — entropy, cross-entropy, KL divergence (loss functions come from here)
 
 —-
+
 ## 2. Programming Languages
 - **Python** (non-negotiable, primary language) — NumPy, Pandas, data structures, OOP, decorators, generators
 - **C/C++** — you have this already; useful for understanding what's happening under the hood in performance-critical ML systems (CUDA kernels, inference engines)
