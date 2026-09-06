@@ -24,6 +24,8 @@ The AI/ML pay band in India is now one of the widest in Indian tech.
 There are **three realistic doors** into ₹1 Cr+ compensation:
 
 
+
+
 ### 1. Staff / Principal ML Engineer or Applied / Research Scientist
 Target:
 - Google
