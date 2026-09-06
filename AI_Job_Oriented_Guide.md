@@ -61,6 +61,10 @@ Potential specialization:
 > **The strategy:** specialize early and deeply rather than becoming a generic "AI engineer."
 This can potentially compress the path to ₹1 Cr+ compared with the traditional ML engineering route, although compensation and hiring conditions vary substantially by company and market cycle.
 ---
+
+
+
+
 ### 3. International Route
 **MS/PhD abroad → Applied Scientist / ML Engineer / Research Engineer → Big Tech or frontier AI lab**
 Potential employers include:
