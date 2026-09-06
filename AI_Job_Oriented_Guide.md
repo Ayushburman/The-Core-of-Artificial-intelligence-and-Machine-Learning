@@ -77,6 +77,9 @@ Potential employers include:
 The international route can produce substantially higher compensation because US compensation includes large base salaries, bonuses, and equity.
 > **Your existing GATE → IIT M.Tech → US MS/PhD strategy is not a detour from the ₹1 Cr goal. It can serve as the academic + research pipeline into higher-paying international AI roles.**
 ---
+
+
+
 # 01 · TWO VIABLE PATHS
 ## PATH A — Domestic Staff Track
 ### India-Based
