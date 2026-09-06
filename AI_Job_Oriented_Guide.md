@@ -43,6 +43,9 @@ Typical requirement:
 - Research output
 - Strong internal mobility into Applied Science / Research roles
 ---
+
+
+
 ### 2. GenAI / LLM / Foundation Model Engineering
 This is one of the strongest emerging paths.
 Potential specialization:
