@@ -9,6 +9,7 @@
 ---
 ## 00 · REALITY CHECK FIRST
 ### What "₹1 Cr AI/ML Job" Actually Means in 2026
+```bash
 The AI/ML pay band in India is now one of the widest in Indian tech.
 | Level | Approx. Compensation |
 |---|---:|
@@ -18,6 +19,7 @@ The AI/ML pay band in India is now one of the widest in Indian tech.
 | Senior / Staff / Principal | ₹1 Cr+ |
 **₹1 Cr+ is generally a Senior/Staff/Principal compensation band — not an entry-level title in India.**
 There are **three realistic doors** into ₹1 Cr+ compensation:
+```
 
 ### 1. Staff / Principal ML Engineer or Applied / Research Scientist
 Target:
