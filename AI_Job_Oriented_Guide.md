@@ -93,6 +93,8 @@ The international route can produce substantially higher compensation because US
 - Zerodha
 - Meesho
 - Other strong Indian product companies
+
+  
 **Timeline**
 > **~6–9 years** is a reasonable long-term planning horizon for ₹1 Cr+.
 A strong GenAI/LLM specialization can potentially accelerate this, but there is no guaranteed 4–6 year route.
