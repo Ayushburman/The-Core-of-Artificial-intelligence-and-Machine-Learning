@@ -107,6 +107,7 @@ A strong GenAI/LLM specialization can potentially accelerate this, but there is 
 - Staff-level engineering
 - Research / patents
 - Applied Science transition
+  
 ### Your potential edge
 **Cybersecurity + AI**
 Possible niche:
