@@ -6,6 +6,9 @@
 > Two viable paths, real timelines, real numbers.
 **CV SPECIALIZATION** · **AI SECURITY EDGE** · **SYNCED W/ GATE PLAN**
 ```
+
+
+
 ---
 ## 00 · REALITY CHECK FIRST
 ### What "₹1 Cr AI/ML Job" Actually Means in 2026
